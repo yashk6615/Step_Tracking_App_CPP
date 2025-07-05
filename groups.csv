@@ -1,0 +1,6 @@
+GroupID,GroupName,MemberIDs,WeeklyGroupGoal
+G1,Fitness Fanatics,1;2;3;4;5,35000
+G2,Step Squad,6;7;8;9,30000
+G3,Trail Blazers,10;11;12,25000
+G4,Pace Setters,13;14,20000
+G5,Solo Stars,15,10000
